@@ -1,18 +1,18 @@
 {
-  "name": "Preact PWA",
-  "short_name": "Preact PWA",
+  "name": "Classroom Alive: Sweden to Greece",
+  "short_name": "Classroom Alive: Sweden to Greece",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#fff",
   "theme_color": "#673ab8",
   "icons": [{
-    "src": "/assets/icons/android-chrome-192x192.png",
+    "src": "/assets/logo.ico",
     "type": "image/png",
     "sizes": "192x192"
   },
   {
-    "src": "/assets/icons/android-chrome-512x512.png",
+    "src": "/assets/logo.ico",
     "type": "image/png",
     "sizes": "512x512"
   }]
