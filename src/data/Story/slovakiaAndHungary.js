@@ -1,7 +1,7 @@
 module.exports = {
   id: 'slovakiaAndHungary',
   title: 'Slovakia and Hungary: Stepping Into Eastern Europe',
-  image: '',
+  image: '/assets/slovakia.jpg',
   text: [
     {
       type: 'p',
@@ -22,7 +22,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'August 21st',
-      image: '',
+      image: '/assets/chanelling.jpg',
       text: [
         {
           type: 'p',
@@ -54,7 +54,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Anna Wynants',
       title: 'Classroom Alive: A Life Style',
-      image: '',
+      image: '/assets/classroomALife.jpg',
       text: [
         {
           type: 'p',
@@ -94,7 +94,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Caleb Buchbinder',
       title: 'Walking',
-      image: '',
+      image: '/assets/walkingByCaleb.jpg',
       text: [
         {
           type: 'p',

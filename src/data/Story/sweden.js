@@ -1,7 +1,7 @@
 module.exports = {
   id: 'sweden',
   title: 'Sweden: Finding Paradise',
-  image: '',
+  image: '/assets/sweden.jpg',
   text: [
     {
       type: 'p',
@@ -19,7 +19,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Mischa Saunders',
       title: 'Designing My Studies: Societal Narratives',
-      image: '',
+      image: '/assets/societalNarratives.jpg',
       text: [
         {
           type: 'p',
@@ -55,7 +55,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Caleb Buchbinder',
       title: 'Arriving at Class',
-      image: '',
+      image: '/assets/arrivingAtClass.jpg',
       text: [
         {
           type: 'p',

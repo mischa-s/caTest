@@ -1,7 +1,7 @@
 module.exports = {
   id: 'czechRepublicAndAustria',
   title: 'The Czech Republic and Austria: The Heat of Summer',
-  image: '',
+  image: '/assets/czech.jpg',
   text: [
     {
       type: 'p',
@@ -22,7 +22,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'July 26th',
-      image: '',
+      image: '/assets/walden.jpg',
       text: [
         {
           type: 'p',
@@ -38,7 +38,7 @@ module.exports = {
         },
         {
           type: 'p',
-          content: 'No method nor discipline can supersede the necessity of being forever on the alert. What is a course of history or philosophy, or poetics, no matter how well selected, or the best society, or the most admirable way of life, compare with the discipline of looking always at what is to be seen? Will you be a reader, a student merely, or a seer? Read your fate, see what is before you, and walk on into futurity.'
+          content: '"No method nor discipline can supersede the necessity of being forever on the alert. What is a course of history or philosophy, or poetics, no matter how well selected, or the best society, or the most admirable way of life, compare with the discipline of looking always at what is to be seen? Will you be a reader, a student merely, or a seer? Read your fate, see what is before you, and walk on into futurity."'
         }
       ]
     },
@@ -53,7 +53,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'July 26th',
-      image: '',
+      image: '/assets/toVienna.jpg',
       text: [
         {
           type: 'p',
@@ -88,7 +88,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'August 15th',
-      image: '',
+      image: '/assets/esotericAspect.jpg',
       text: [
         {
           type: 'p',
@@ -120,7 +120,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Seth Jordan',
       title: 'Slow Education',
-      image: '',
+      image: '/assets/slowEducation.jpg',
       text: [
         {
           type: 'p',

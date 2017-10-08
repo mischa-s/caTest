@@ -1,7 +1,7 @@
 module.exports = {
   id: 'germany',
   title: 'Germany: The Eastern Frontier',
-  image: '',
+  image: '/assets/germany.jpg',
   text: [
     {
       type: 'p',
@@ -11,7 +11,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Mathijs Poppe',
       title: 'In the midst of it',
-      image: '',
+      image: '/assets/midstOfIt.jpg',
       text: [
         {
           type: 'p',
@@ -91,7 +91,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Maria Hector',
       title: 'Über Freundschaft',
-      image: '',
+      image: '/assets/uber.jpg',
       text: [
         {
           type: 'p',

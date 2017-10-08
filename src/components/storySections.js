@@ -19,7 +19,7 @@ export default function StorySections () {
                 return (
                   <div class={style.facebookContent}>
                     <div class={style.facebookHeading}>
-                      <img class={style.facebookImage} src={section.image || '../../assets/CAmap.jpg'} />
+                      <img class={style.facebookImage} src={subSection.image || '../../assets/CAmap.jpg'} />
                       <h2 >CLASSROOM ALIVE BLOG: {subSection.date.toUpperCase()}</h2>
                     </div>
                     <div class={style.facebookText}>
@@ -39,7 +39,7 @@ export default function StorySections () {
                         <h2>{subSection.title.toUpperCase()} </h2>
                         <h3>{subSection.author.toUpperCase()} </h3>
                       </div>
-                      <img class={style.facebookImage} src={section.image || '../../assets/CAmap.jpg'} />
+                      <img class={style.facebookImage} src={subSection.image || '../../assets/CAmap.jpg'} />
                     </div>
                     <div class={style.facebookText}>
                       { map(subSection.text, subSectionText => {

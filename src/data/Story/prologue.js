@@ -1,7 +1,7 @@
 module.exports = {
   id: 'prologue',
-  title: 'Prologue: The Journey Before the Journey',
-  image: '',
+  title: 'Prologue: Before the Journey',
+  image: '/assets/prologue.jpg',
   text: [
     {
       type: 'p',
@@ -18,7 +18,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'March 13th',
-      image: '',
+      image: '/assets/march13th.jpg',
       text: [
         {
           type: 'p',

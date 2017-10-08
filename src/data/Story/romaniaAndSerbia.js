@@ -1,7 +1,7 @@
 module.exports = {
   id: 'romaniaAndSerbia',
   title: 'Romania and Serbia: The Wild Section',
-  image: '',
+  image: '/assets/romania.jpg',
   text: [
     {
       type: 'p',
@@ -22,7 +22,7 @@ module.exports = {
     {
       type: 'facebookPost',
       date: 'September 4th',
-      image: '',
+      image: '/assets/modernBanking.jpg',
       text: [
         {
           type: 'p',
@@ -70,7 +70,7 @@ module.exports = {
       type: 'personalStory',
       author: 'Mischa Saunders',
       title: 'Studies Update: Societal Narratives',
-      image: '',
+      image: '/assets/studiesUpdate.jpg',
       text: [
         {
           type: 'p',
