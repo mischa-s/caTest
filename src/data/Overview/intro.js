@@ -1,6 +1,6 @@
 module.exports = {
   id: 'intro',
-  title: 'Intro',
+  title: 'Overview',
   text: [
     {
       type: 'p',

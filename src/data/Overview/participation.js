@@ -1,6 +1,7 @@
 module.exports = {
   id: 'participation',
   title: 'Participation',
+  image: '/assets/participation.jpg',
   text: [
     {
       type: 'p',

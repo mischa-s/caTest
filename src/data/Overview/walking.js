@@ -1,6 +1,7 @@
 module.exports = {
   id: 'walking',
   title: 'Walking',
+  image: '/assets/walking.jpg',
   text: [
     {
       type: 'p',

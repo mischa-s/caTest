@@ -1,6 +1,7 @@
 module.exports = {
   id: 'theForms',
   title: 'Individual Studies and Peer-led Learning',
+  image: '/assets/theForms.jpg',
   text: [
     {
       type: 'p',

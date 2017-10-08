@@ -5,12 +5,12 @@
 .image {
   width: auto;
   height: auto;
-  padding-left: 5rem;
+  padding-left: 3rem;
   max-width: 40vw;
 }
 .heading {
   display: flex;
-  width: 70vw;
+  width: 80vw;
   margin: auto;
   align-items: center;
   justify-content: space-between;
@@ -20,5 +20,64 @@
   width: 60vw;
   margin-left: auto;
   margin-right: auto;
-  text-align: justify
+  text-align: justify;
+	border-left: solid;
+	border-right: solid;
+	border-color: rgb(227, 227, 227);
+	border-image: none;
+	border-width: 1px;
+	padding: 0 1vw;
+}
+
+.facebookContent{
+	display: flex;
+	flex-direction: column;
+	width: 75vw;
+	padding: 2rem;
+	font-size: 1.1rem;
+	background-color: #e9ebee;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.personalContent{
+	display: flex;
+	flex-direction: column;
+	width: 75vw;
+	padding: 2rem;
+	font-size: 1.1rem;
+	background-color: rgba(199, 172, 67, 0.22);
+	margin-left: auto;
+	margin-right: auto;
+
+}
+.facebookText{
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+  text-align: justify;
+	padding: 2rem;
+	font-family: monospace;
+}
+
+.facebookHeading{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 0 2rem;
+	text-align: center;
+
+}
+.facebookHeading h2 {
+	font-family: monospace;
+	text-align: center;
+}
+.facebookHeading h3 {
+	font-family: monospace;
+	text-align: center;
+}
+.facebookImage {
+	width: auto;
+	height: auto;
+	max-width: 20vw;
 }

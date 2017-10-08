@@ -8,6 +8,7 @@ export default function Header () {
       <nav>
         <Link activeClassName={style.active} href='/'>Home</Link>
         <Link activeClassName={style.active} href='/story'>Story</Link>
+        <a href='#finances'> Finances </a>
       </nav>
     </header>
   )

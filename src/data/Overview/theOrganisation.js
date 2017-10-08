@@ -1,6 +1,7 @@
 module.exports = {
   id: 'theOrganisation',
   title: 'The Organization: Collective Stewardship',
+  image: '/assets/collectiveStewardship.jpg',
   text: [
     {
       type: 'p',

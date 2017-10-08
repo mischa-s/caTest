@@ -1,6 +1,6 @@
 {
   "name": "CATest",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,9 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
+    "nan": "^2.7.0",
+    "node-pre-gyp": "^0.6.38",
+    "postcss": "^6.0.12",
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
     "preact-router": "^2.5.7"

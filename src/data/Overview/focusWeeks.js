@@ -1,6 +1,7 @@
 module.exports = {
   id: 'focusWeeks',
   title: 'Focus Weeks',
+  image: '/assets/focusWeeks.jpg',
   text: [
     {
       type: 'p',

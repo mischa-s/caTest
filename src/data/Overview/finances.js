@@ -1,6 +1,7 @@
 module.exports = {
   id: 'finances',
   title: 'Finances',
+  image: '/assets/finances.jpg',
   text: [
     {
       type: 'p',

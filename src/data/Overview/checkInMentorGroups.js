@@ -1,6 +1,7 @@
 module.exports = {
   id: 'checkInMentorGroups',
   title: 'Check-In / Mentor Groups',
+  image: '/assets/checkInMentor.jpg',
   text: [
     {
       type: 'p',
