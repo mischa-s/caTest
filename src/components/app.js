@@ -22,10 +22,8 @@ export default class App extends Component {
 			<div id="app">
 				<Header />
 				<Router onChange={this.handleRoute}>
-					<Home path="/" />
-					<Profile path="/profile/" user="me" />
+					<Story path="/" />
 					<Story path="/story/" />
-					<Profile path="/profile/:user" />
 				</Router>
 			</div>
 		);

@@ -6,10 +6,12 @@ export default function Header () {
     <header class={style.header}>
       <h1>Classroom Alive: Sweden to Greece</h1>
       <nav>
-        <Link activeClassName={style.active} href='/'>Home</Link>
-        <Link activeClassName={style.active} href='/story'>Story</Link>
-        <a href='#finances'> Finances </a>
+      <Link activeClassName={style.active} href='/story'>Introduction</Link>
+        <Link activeClassName={style.active} href='/'>Story</Link>
+        <Link activeClassName={style.active} href='/story'>Learnings</Link>
       </nav>
     </header>
   )
 }
+// <Link activeClassName={style.active} href='/story'>Story</Link>
+// <a href='#finances'> Finances </a>
