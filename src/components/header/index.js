@@ -6,7 +6,7 @@ export default function Header () {
     <header class={style.header}>
       <h1>Classroom Alive: Sweden to Greece</h1>
       <nav>
-      <Link activeClassName={style.active} href='/story'>Introduction</Link>
+        <Link activeClassName={style.active} href='/introduction'>Introduction</Link>
         <Link activeClassName={style.active} href='/'>Story</Link>
         <Link activeClassName={style.active} href='/story'>Learnings</Link>
       </nav>

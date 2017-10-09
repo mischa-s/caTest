@@ -4,5 +4,7 @@ module.exports = {
   germany: require('./germany'),
   czechRepublicAndAustria: require('./czechRepublicAndAustria'),
   slovakiaAndHungary: require('./slovakiaAndHungary'),
-  romaniaAndSerbia: require('./romaniaAndSerbia')
+  romaniaAndSerbia: require('./romaniaAndSerbia'),
+  bulgaria: require('./bulgaria'),
+  greece: require('./greece')
 }
