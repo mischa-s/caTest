@@ -7,12 +7,12 @@
   "background_color": "#fff",
   "theme_color": "#673ab8",
   "icons": [{
-    "src": "/assets/logo.ico",
+    "src": "/assets/favicon.ico",
     "type": "image/png",
     "sizes": "192x192"
   },
   {
-    "src": "/assets/logo.ico",
+    "src": "/assets/favicon.ico",
     "type": "image/png",
     "sizes": "512x512"
   }]
